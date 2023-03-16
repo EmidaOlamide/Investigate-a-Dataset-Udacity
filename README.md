@@ -28,3 +28,6 @@ The findings were made based on descriptive statistics.
 Additional research need to be peformed to understand why some movies generated zero revenue because the removal of the rows with zero revenue reduced the data shape.
 
 Kindly view the notebook. Your feedback is highly appreciated.
+
+### Feedback from Udacity reviewer
+View the feedback [here](https://drive.google.com/file/d/1PRf1VhsH_b5krJxkbSdWNpDxrcLkdWyD/view?usp=sharing)
