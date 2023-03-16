@@ -2,7 +2,7 @@
 
 This is a project from Udacity Data Analysis Nanodegree; Investigate a dataset project
 
-The data set contains information about 10,866 movies collected from The Movie Database (TMDb), including user ratings and revenue. The following questions will be answered with the data:
+The data set contains information about 10,866 movies collected from The Movie Database (TMDb), including user ratings and revenue. The following questions were answered with the data:
 
 ## The questions answered with the data
 1. What is the average user rating for all the movies?
