@@ -29,5 +29,5 @@ Additional research need to be peformed to understand why some movies generated 
 
 Kindly view the notebook. Your feedback is highly appreciated.
 
-### Feedback from Udacity reviewer
+## Feedback from Udacity reviewer
 View the feedback [here](https://drive.google.com/file/d/1PRf1VhsH_b5krJxkbSdWNpDxrcLkdWyD/view?usp=sharing)
