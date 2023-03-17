@@ -30,6 +30,6 @@ Additional research need to be peformed to understand why some movies generated 
 ## Feedback from Udacity reviewer
 View the feedback [here](https://drive.google.com/file/d/1PRf1VhsH_b5krJxkbSdWNpDxrcLkdWyD/view?usp=sharing)
 
-Warm Regards'
+Warm Regards,
 
 #### Olamide Emida
